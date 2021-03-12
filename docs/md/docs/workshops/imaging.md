@@ -1,5 +1,11 @@
 # Image and video processing
 
-> :P5 sketch=/docs/sketches/imaging.js, width=710, height=400
+# Show Image
+
+> :P5 sketch=/docs/sketches/imaging.js, width=512, height=512
+
+# Inverse Image
+
+> :P5 sketch=/docs/sketches/inverse.js, width=512, height=512
 
 > :ToCPrevNext
